@@ -18,7 +18,7 @@ Try it out: [https://un1satsv.surge.sh/](https://un1satsv.surge.sh/)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/1n30/unisatsv.git
+git clone https://github.com/wenmoondev/unisatsv.git
 cd unisatsv
 ```
 
